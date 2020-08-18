@@ -11,5 +11,5 @@
  int main(int argc, char **agrv) {
      printf("Lyndsay Gunther\n");
      printf("Computer science\n");
-     return 0;
+     return 0; 
  }
